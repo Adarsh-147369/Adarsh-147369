@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajala Adarsh</h1>
-<h3 align="center">A passionate machine learning expert from India</h3>
+<h3 align="center">A passionate machine learning learner in india </h3>
 
 - 🌱 I’m currently learning **Machine learning**
 
